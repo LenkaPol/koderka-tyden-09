@@ -48,3 +48,6 @@ selector[attr="val"]		element s attributem o určité hodnotě
 												^= na začátku
 												$= na konci
 */
+section.box {
+	background-color: lime;
+}
